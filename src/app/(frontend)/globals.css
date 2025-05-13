@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    font-family: charter, Georgia, Cambria, 'Times New Roman', Times, serif;
+    color: #292929;
+    background-color: white;
+  }
+}
+
+/* Add any custom styles here if needed */
